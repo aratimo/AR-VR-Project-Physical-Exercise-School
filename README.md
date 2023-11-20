@@ -54,6 +54,12 @@ Go to Assets -> Scenes -> SchoolSceneDay1.unity and drag it to the Hierarchy pan
 - Once the instructor is visible, use the 'f' button to start the Forward Raises exercise and the 'b' button to start the Bicep Curls exercise.
 - Press 't' to stop the exercise at any point in time.
 
+#### Check out CV
+
+- Install dependencies (Mediapipe, openCV)
+- Run the main.py file using latest Python interpreter
+- Future works can include using socket programming to transfer data from python program to unity interface
+
 ### Troubleshooting
 
 - If the Ground texture is not loaded by default, click on 'Terrain' in the Hierarchy pane (under SchoolSceneDay1) and manually set Terrain Data to 'SchoolTerrain' in the Inspector Panel.
